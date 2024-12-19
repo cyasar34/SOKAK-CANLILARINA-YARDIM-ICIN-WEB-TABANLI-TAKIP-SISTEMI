@@ -44,7 +44,7 @@ Günümüzde sokakta yaşayan canlı dostlarımızın birçoğu yeteri kadar bes
 - **APA**: Yaşar, Ç., Eren, A., Ulubaş, A.E. & Özkaradayı, B.C. (2023).  Sokak Canlılarına Yardım İçin Web Tabanlı Takip Sistemi. 1.Uluslararası Mühendislik Ve Fen Bilimleri Kongresi (pp.120-127). İstanbul, Turkey                            
 - **MLA**: Yaşar, ÇİSEM, Eren, ADEM, Ulubaş, ALEYNA EBRU, ve Özkaradayı, BERKAY CAN.  "Sokak Canlılarına Yardım İçin Web Tabanlı Takip Sistemi"  1.Uluslararası Mühendislik Ve Fen Bilimleri Kongresi, İstanbul, Turkey, pp.120-127, 2024               
 
-![Bildiri Metni](https://github.com/cyasar34/KEYLOGGER-SALDIRI-SENARYOSU-VE-GUVENLIK-ONLEMLERI/blob/main/keylogger_bildiri.PNG)
+![Bildiri Metni](https://github.com/cyasar34/SOKAK-CANLILARINA-YARDIM-ICIN-WEB-TABANLI-TAKIP-SISTEMI/blob/main/sokak_canlilarina_yardim_web_sitesi.PNG)
 
 License:
 This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License, allowing non-commercial sharing and adaptation with proper attribution.
