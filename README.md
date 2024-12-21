@@ -1,8 +1,8 @@
 # SOKAK-CANLILARINA-YARDIM-ICIN-WEB-TABANLI-TAKIP-SISTEMI
 
-SOKAK CANLILARINA YARDIM İÇİN WEB TABANLI TAKİP SİSTEMİ
+SOKAK CANLILARINA YARDIM İÇİN WEB TABANLI TAKİP SİSTEMİ / WEB-BASED TRACKING SYSTEM TO HELP STREET ANIMALS
 
-## Authors
+## Yazarlar
 
 - [**Çisem YAŞAR**](https://scholar.google.com/citations?user=uehmKvoAAAAJ&hl=tr)  
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojileri Bölümü, İstanbul / Türkiye
@@ -18,7 +18,7 @@ SOKAK CANLILARINA YARDIM İÇİN WEB TABANLI TAKİP SİSTEMİ
   
 *For Correspondence: cyasar@gelisim.edu.tr*
 
-## Bu çalışma, İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu Bilgisayar Programcılığı Programı'nda 2022-2023 Bahar döneminde yürütülen İnternet Programcılığı dersinde gerçekleştirilen uygulamalı proje çalışmalarının sonuçlarına dayanmaktadır. ORCID Kimlikleri: 0000-0002-0765-861X,  0000-0001-5311-9599, 0000-0002-0691-1804, 0000-0002-0610-6565.
+## Bu çalışma, İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu Bilgisayar Programcılığı Programı'nda 2022-2023 Bahar döneminde yürütülen İnternet Programcılığı dersinde gerçekleştirilen uygulamalı proje çalışmalarının sonuçlarına dayanmaktadır. Yazarların ORCID Kimlikleri: 0000-0002-0765-861X, 0000-0001-5311-9599, 0000-0002-0691-1804, 0000-0002-0610-6565.
 
 ** Kongre Bilgileri
 
@@ -30,11 +30,11 @@ Kongre Tarihleri: 18-19 Mart 2023 İSTANBUL
 
 [Kongre İnternet Sayfası](https://www.engineeringandsciencescongress.org/)
 
-[Araştma Google Akademik Linki](https://scholar.google.com/citations?view_op=view_citation&hl=tr&user=uehmKvoAAAAJ&citation_for_view=uehmKvoAAAAJ:W7OEmFMy1HYC)
+[Araştırma Google Akademik Linki](https://scholar.google.com/citations?view_op=view_citation&hl=tr&user=uehmKvoAAAAJ&citation_for_view=uehmKvoAAAAJ:W7OEmFMy1HYC)
 
-[Araştma ResearchGate Linki](https://www.researchgate.net/publication/377890791_SOKAK_CANLILARINA_YARDIM_ICIN_WEB_TABANLI_TAKIP_SISTEMI)
+[Araştırma ResearchGate Linki](https://www.researchgate.net/publication/377890791_SOKAK_CANLILARINA_YARDIM_ICIN_WEB_TABANLI_TAKIP_SISTEMI)
 
-[Araştma Sosyal Medya Linki](https://www.instagram.com/p/Cp73rdiNnMB/)
+[Araştırma Sosyal Medya Linki](https://www.instagram.com/p/Cp73rdiNnMB/)
 
 Öz:
 
